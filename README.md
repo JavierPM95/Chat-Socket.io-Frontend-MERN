@@ -1,5 +1,10 @@
 # Real-time chat with Socket.io - Stack MERN ✨
 
+### Chat
+<img src="githubSrc/chat.png">
+### Users list
+<img src="githubSrc/users.png">
+
 ### This is a real-time chat working with socket.io. Both, Client and Server is always listening for some change to show up!
 
 #### *By the frontend side, was built using Context as a Global State. Following design pattern to get better maintance in a long term.*
