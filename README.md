@@ -8,9 +8,9 @@
 ### Built with:
 
 > 1. Frontend
->   1. React.JS
->   2. Context
+>   - React.JS
+>   - Context
 > 2. Backend
->   1. Node.JS
->   2. Express
->   3. MongoDB
+>   - Node.JS
+>   - Express
+>   - MongoDB
